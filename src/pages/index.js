@@ -9,7 +9,7 @@ import Contact from '../components/Contact.jsx';
 
 const App = () => {
   return (
-    <div className='bg-primary-black'>
+    <div className='bg-primary-black overflow-hidden'>
       <div className='relative'>
       <div className="gradient-03 z-0" />
       <Header />
